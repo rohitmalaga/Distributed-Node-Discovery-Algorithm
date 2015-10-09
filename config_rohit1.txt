@@ -1,0 +1,7 @@
+5
+--Start of Node Info--
+dc01.utdallas.edu;dc21.utdallas.edu;dc27.utdallas.edu;dc31.utdallas.edu;dc37.utdallas.edu
+8740;8741;8742;8743;8744
+1 4;0 2 4;1 2;2 4;0 1 3
+--Broadcast Node--
+0
