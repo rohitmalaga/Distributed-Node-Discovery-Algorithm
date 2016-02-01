@@ -17,4 +17,4 @@ the configuration file. Note that the configuration file is only used to make it
 the state of each node. It should not be used as a mechanism for node discovery. After all, it
 contains information about all the nodes in the system! (The ideal approach is to use a separate
 configuration file for each node but I decided against it because it would have been too cumbersome
-and error-prone.)
+and error-prone.) HI
